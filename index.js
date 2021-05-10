@@ -4,7 +4,6 @@ const { promisify } = require('util');
 require('subheaven-tools');
 
 exports.processPath = async(pathname, isdir = false, isfile = false, level = 0) => {
-    console.log("");
     let name = pathname.split('\\').pop();
     log(`${'    '.repeat(level)}${name}`);
     let result = {

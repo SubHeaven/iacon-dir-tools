@@ -1,23 +1,23 @@
 {
-  "name": "iacon-dir-tools",
-  "version": "0.1.0",
-  "description": "A simple message broker using RabbitMQ",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/SubHeaven/iacon-dir-tools.git"
-  },
-  "author": "SubHeaven",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/SubHeaven/iacon-dir-tools/issues"
-  },
-  "homepage": "https://github.com/SubHeaven/iacon-dir-tools#readme",
-  "dependencies": {
-    "debug": "^4.3.1",
-    "subheaven-tools": "github:SubHeaven/subheaven-tools"
-  }
+    "name": "iacon-dir-tools",
+    "version": "0.1.1",
+    "description": "A simple message broker using RabbitMQ",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/SubHeaven/iacon-dir-tools.git"
+    },
+    "author": "SubHeaven",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/SubHeaven/iacon-dir-tools/issues"
+    },
+    "homepage": "https://github.com/SubHeaven/iacon-dir-tools#readme",
+    "dependencies": {
+        "debug": "^4.3.1",
+        "subheaven-tools": "github:SubHeaven/subheaven-tools"
+    }
 }
